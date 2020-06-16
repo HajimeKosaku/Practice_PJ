@@ -3,20 +3,21 @@
 
 ## プログラム
 ### SQL 
-- ◯◯.sql  
-　プログラムの説明　
+- export_products_dataset.sql  
+　商品のデシル分析結果の出力PGM　
 -  
 -  
 
 ### Python
-- ◯◯.ipynb  
-　プログラムの説明    
-- 
+- GetOlistData.ipynb  
+　データと見込み用のPGM（メンター作成）    
+- PurchasingTrendAnalysis_corr_pca.ipynb  
+　商品の各変数の相関を調査
 - 
 
 ## データ
-- ◯◯.csv  
-　csvの説明
+- products_dataset_decile.csv  
+　商品を注文数でデシル分析した結果
 - 
 - 
 
