@@ -7,6 +7,8 @@
 　商品のデシル分析結果の出力PGM　
 - CreateTable_CustomerDecileAnalysis.sql  
 　購入者の注文総額をもとにデシル分析の結果出力PGM
+- check_repeater.sql  
+  リピーターの確認用PGM
 
 ### Python
 - GetOlistData.ipynb  
