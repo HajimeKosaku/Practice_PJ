@@ -3,6 +3,8 @@
 
 ## プログラム
 ### SQL 
+- import_olist_dataset.sel  
+  データセットの読み込み
 - export_products_dataset.sql  
 　商品のデシル分析結果の出力PGM　
 - CreateTable_CustomerDecileAnalysis.sql  
