@@ -75,10 +75,3 @@ create temp table a_un
 as
 select f.customer_unique_id,f.初利用,a.order_id
 from first_order f join add_unique a on (f.初利用=a.order_purchase_timestamp) and (f.customer_unique_id=a.customer_unique_id) 
-
-
-
-
-
-
-
